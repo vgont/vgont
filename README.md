@@ -13,6 +13,9 @@
 </a>
 
 ##
+
+### Linguaguens mais usadas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vgont-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vgont-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,6 +25,18 @@
   <img align="right" alt="Vini-guts" height="250" width="250" src="https://tenor.com/view/guts-screaming-griffith-berserk-guts-screaming-gif-26478309.gif">
 </div>
 
+##
+
+### Estudando no momento
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vgont-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vgont-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vgont-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vgont-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+  <img align="center" alt="Vgont-NextJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"> 
+  <img align="center" alt="Vgont-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vgont-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+</div>
 
 ##
 <div> 
@@ -30,6 +45,4 @@
   <a href="https://www.linkedin.com/in/vinicius-gontijo-santos-57700224a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https:///github.com/vgont/vgont/blob/output/github-contribution-grid-snake.svg)
 

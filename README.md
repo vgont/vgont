@@ -7,10 +7,10 @@
 ##
 <div>
 <a href="https://github.com/vgont/github-readme-stats">
-  <img height="175" width="400" align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=vgont&show_icons=true&theme=date_night" />
+  <img height="175"  align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=vgont&show_icons=true&theme=date_night" />
 </a>
 <a href="https://github.com/vgont/convoychat">
-  <img height="175" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgont&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=date_night" />
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgont&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=date_night" />
 </a>
 </div>
 

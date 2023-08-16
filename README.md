@@ -10,9 +10,6 @@
   <img height=175 align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=vgont&show_icons=true&theme=date_night" />
 </a>
 <img align="center" alt="Vini-griffith" height="175" width="175" src="https://steamuserimages-a.akamaihd.net/ugc/1868430228849139452/EAC0E024DFCF756C9B8F28B9486DE05028BEB57B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0.gif">
-</div>
-<div>
-<img align="center" alt="Vini-griffith" height="175" width="175" src="https://steamuserimages-a.akamaihd.net/ugc/1868430228849139452/EAC0E024DFCF756C9B8F28B9486DE05028BEB57B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0.gif">
 <a href="https://github.com/vgont/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgont&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=date_night" />
 </a>

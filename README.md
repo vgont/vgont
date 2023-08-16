@@ -1,9 +1,9 @@
 ### Olá! Me chamo Vinícius Gontijo👋
 ##
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Tenho estudado mais Front-end por conta de ser mais desenvolvido na área de Back-end
+- 🌱 Tenho estudado mais Front-end por conta de ser mais desenvolvido na área de Back-end.
 - 📫 Contate-me no email: vgontijo34@gmail.com
-- 😄 Pronomes: Ele/dele
+- 😄 Pronomes: Ele/dele.
 ##
 
 <div>

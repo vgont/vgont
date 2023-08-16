@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: vgontijo34@gmail.com
 - 😄 Pronomes: Ele/dele
 ##
+
 <div>
 <a href="https://github.com/vgont/github-readme-stats">
   <img height="175"  align="center" margin-right="20px"; src="https://github-readme-stats.vercel.app/api?username=vgont&show_icons=true&theme=date_night" />
@@ -24,7 +25,8 @@
   <img align="center" alt="Vgont-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vgont-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vgont-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="right" alt="Vini-guts" height="250" width="250" src="https://tenor.com/view/guts-screaming-griffith-berserk-guts-screaming-gif-26478309.gif">
+  <img align="right" alt="Vini-guts" height="230" width="230" src="https://tenor.com/view/guts-screaming-griffith-berserk-guts-screaming-gif-26478309.gif">
+  
 </div>
 
 ##

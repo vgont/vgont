@@ -1,4 +1,4 @@
-### Hi! I'm Vinícius Gontijo, just a software swordsman apprentice
+### Hi! I'm Vinícius, just a software swordsman apprentice
 ##
 - Currently I'm studying Analysis and systems development at FIAP.
 - I'm more developed in the back-end area, so I have been studied more Front-end. 

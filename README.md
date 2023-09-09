@@ -32,7 +32,7 @@
 
 ### Frameworks mais usados
 <div style="display: inline_block"><br>
- <img align="center" alt="Vgont-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vgont-NextJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
 </div>
 
 ##

@@ -1,8 +1,8 @@
 ### Olá! Me chamo Vinícius Gontijo👋
 ##
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
-- Tenho estudado mais Front-end por conta de ser mais desenvolvido na área de Back-end.
-- Contate-me no email: vgontijo34@gmail.com
+- Currently I'm studying Analysis and systems development at FIAP.
+- I'm more developed in the back-end area, so I have been studied more Front-end. 
+- Contact me at: vgontijo34@gmail.com
 ##
 
 <div>
@@ -16,7 +16,7 @@
 
 ##
 
-### Linguaguens mais usadas
+### Most used langs
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vgont-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,14 +29,14 @@
 
 ##
 
-### Frameworks mais usados
+### Most used frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="Vgont-NextJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
 </div>
 
 ##
 
-### Estudando no momento
+### Studying
   <div style="display: inline_block"><br>
   <img align="center" alt="Vgont-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vgont-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

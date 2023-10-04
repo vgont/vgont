@@ -1,4 +1,4 @@
-### Hi! I'm Vinícius, a novice software swordsman
+### Hi! I'm Vinícius, a novice fullstack developer
 ##
 - Currently I'm studying Analysis and systems development at FIAP.
 - I'm more developed in the back-end area, so I have been studied more Front-end. 

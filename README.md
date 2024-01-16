@@ -1,7 +1,6 @@
-### Hi! I'm Vinícius, a novice fullstack developer
+### Hi! I'm Vinícius, a back-end developer
 ##
 - Currently I'm studying Analysis and systems development at FIAP.
-- I'm more developed in the back-end area, so I have been studied to improve my Front-end projects. 
 - Contact me at: vgontdev@gmail.com
 ##
 

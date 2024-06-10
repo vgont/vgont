@@ -18,7 +18,7 @@
 ### Most used tecnologies
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,docker,git,ts,nodejs,prisma,vitest,yarn," />
+  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,docker,git,ts,nodejs,bun,prisma,vitest,yarn," />
 </div>
 
 ##

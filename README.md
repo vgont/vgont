@@ -15,37 +15,30 @@
 
 ##
 
-### Most used langs
+### Most used tecnologies
 
 <div style="display: inline_block"><br>
- 
-  <img align="center" alt="Vgont-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vgont-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Vini-guts" height="230" width="230" src="https://tenor.com/view/guts-screaming-griffith-berserk-guts-screaming-gif-26478309.gif">
-  
+  <img src="https://skillicons.dev/icons?i=linux,arch,neovim,docker,git,ts,nodejs,prisma,vitest,yarn," />
 </div>
 
 ##
 
 ### Most used frameworks
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vgont-NextJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  <img src="https://skillicons.dev/icons?i=express," />
 </div>
 
 ##
 
-### Studying
-  <div style="display: inline_block"><br>
-
-  <img align="center" alt="Vgont-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vgont-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
+### Learning
+<div style="display: inline_block"><br>
+  <img src="https://skillicons.dev/icons?i=rust,elixir,astro" />
 </div>
 
 ##
 <div> 
   <a href="https://instagram.com/vinigontijo._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vgontijo34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vgontdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinigontijo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
